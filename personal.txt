@@ -1,0 +1,1 @@
+# Ya funcionan los multiusuarios en local
